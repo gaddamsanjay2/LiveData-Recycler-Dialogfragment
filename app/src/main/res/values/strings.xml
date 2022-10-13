@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LiveData_Recycler_DialogFragment</string>
+
+    <string name="emp_name">name</string>
+    <string name="emp_mail">Mail</string>
+
+    <string name="ename">name</string>
+    <string name="email">Mail</string>
+
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+
+
+</resources>
